@@ -1,6 +1,5 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/AdrianJaviel/count.svg"/>
+<div>
+<img src="https://profile-counter.glitch.me/AdrianJaviel/count.svg"/>
   <br/>
 </div>
 <div>
