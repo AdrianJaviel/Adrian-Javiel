@@ -1,4 +1,14 @@
-# 💫 About Me:
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/AdrianJaviel/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianJaviel&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianJaviel&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianJaviel&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+# 🌊 About Me:
 👋 ¡Hola! Soy Adrian Javiel.<br>Actualmente estoy empezando en el mundo de la programación, explorando y aprendiendo paso a paso. Por ahora, me estoy aventurando con HTML y CSS, trabajando en proyectos sencillos que me ayudan a entender la estructura y diseño de páginas web.<br><br>📌 Mi siguiente objetivo es aprender JavaScript para dar vida e interactividad a mis proyectos web.<br><br>🐍 Más adelante estaré compartiendo también programas en Python, mientras avanzo en mi camino como desarrollador.<br><br>💡 Estoy aquí para aprender, experimentar y mejorar. ¡Todo proyecto es una nueva oportunidad de crecer!<br>
 
 
